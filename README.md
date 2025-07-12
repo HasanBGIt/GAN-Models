@@ -11,7 +11,7 @@ This repository contains implementations of various **Generative Adversarial Net
 ## Implemented GANs
 
 - [x] Vanilla GAN
-- [x] cDCGAN
+- [x] [cDCGAN](./cGAN)
 - [ ] in progress....  
 
 ---
